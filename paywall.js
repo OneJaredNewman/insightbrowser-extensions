@@ -1,0 +1,1 @@
+javascript:(function(){var l=location;l.href=l.origin.replace('.com', '.com.')+l.href.replace(l.origin,'');})();
