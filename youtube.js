@@ -1,0 +1,1 @@
+javascript:(function(){var l=location;l.href=l.origin.replace('youtube.com', 'inv.skyn3t.in')+l.href.replace(l.origin,'');})();
